@@ -1,5 +1,5 @@
 # Vaccine Procurment Predictor
-###Check out the deployment for a live demo!
+### Check out the <a href="https://namansaini1463.github.io/Hack-a-Miners---Vaccine-Procurment-Predictor/"> deployment </a> for a live demo! 
 Our  software is basically going to analyze the past records and trends of  these diseases in 
 various states of our nation and accurately predict the amount vaccines that need to be procured 
 and the extent of vaccination that needs to be done so that such a situation may never arise again 
@@ -22,5 +22,8 @@ in order to accurately predict year-wise requirement of the vaccine stock that n
 to meet the future needs. We have been able to achieve a remarkable accuracy of up-to 90 percent.
 
 
-
-
+TEAM MEMBERS:
+1. Naman Saini: <a href="https://github.com/namansaini1463">https://github.com/namansaini1463 </a>
+2. Krrish Malhotra: <a href="https://github.com/ota0912">https://github.com/ota0912 </a>
+3. Pratham Arora: <a href="https://github.com/bladexxx22">https://github.com/bladexxx22 </a>
+4. Nilay Datta: <a href="https://github.com/nilaydatta1234">https://github.com/nilaydatta1234 </a>
