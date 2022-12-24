@@ -23,6 +23,7 @@ to meet the future needs. We have been able to achieve a remarkable accuracy of 
 
 GALLERY:
 <img src="img/sample-image-1.png">
+<img src="img/sample-image-2.png">
 
 
 TEAM MEMBERS:
