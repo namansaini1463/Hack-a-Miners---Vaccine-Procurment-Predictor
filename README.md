@@ -21,6 +21,9 @@ Using the data that we have scraped from HMIS, we have trained our AI model via 
 in order to accurately predict year-wise requirement of the vaccine stock that needs to be procured 
 to meet the future needs. We have been able to achieve a remarkable accuracy of up-to 90 percent.
 
+GALLERY:
+<img src="img/sample-image-1.png">
+
 
 TEAM MEMBERS:
 1. Naman Saini: <a href="https://github.com/namansaini1463">https://github.com/namansaini1463 </a>
